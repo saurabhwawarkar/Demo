@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Rest API Test suites" verbose="5">
+  <test name="Rest API Test Test 1" >
+    <classes>
+      <class name="automation.tests.RESTAPITest"/>
+    </classes>
+ </test>
+</suite>
